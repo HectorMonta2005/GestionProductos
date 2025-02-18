@@ -1,0 +1,13 @@
+ec\espoch\edu\gestionproductoscorrecion\modelo\GestorProducto.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Principal.class
+ec\espoch\edu\gestionproductoscorrecion\controlador\Controlador.class
+ec\espoch\edu\gestionproductoscorrecion\GestionProductosCorrecion.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Principal$3.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Principal$2.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Listar.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Listar$1.class
+ec\espoch\edu\gestionproductoscorrecion\vista\Principal$1.class
+ec\espoch\edu\gestionproductoscorrecion\tester\TesterVista.class
+ec\espoch\edu\gestionproductoscorrecion\tester\TesterModelo.class
+ec\espoch\edu\gestionproductoscorrecion\tester\TesterControlador.class
+ec\espoch\edu\gestionproductoscorrecion\modelo\Producto.class
